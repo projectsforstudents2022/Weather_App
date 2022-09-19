@@ -1,9 +1,12 @@
-# ☀️🌤⛈❄️ A weather web application using Html, Css, Javascript, Weathermap Api
+# Paraytan_Tourism_Management
+
+In this project, we will build an app that will find the device’s location coordinates. Then we will send this data to the API via an API key. The API will send us a JSON from which we will extract the required data that is the temperature and city of the location.
+
+
+## How to run
+1. Download this repository and extract the file
+2. Run '@paraytan.html' file in browser
+
 
 ## Screenshot
-<img src="https://github.com/Bhaskar-maity/Javascript-weather-app/blob/main/Screenshot.jpg">
-
-The API provider: http://www.OpenWeatherMap.org
-
-## Live demo
-[Javascript Weather App](https://bhaskar-maity.github.io/Javascript-weather-app/)
+![Screenshot](Screenshhot.png)
